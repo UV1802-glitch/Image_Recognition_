@@ -1,0 +1,38 @@
+.heading
+{
+    border-style: double;
+    width: 80%;
+    border-color: black;
+}
+
+#webcam_view
+{
+    border-style: inset;
+    border-width: 5px;
+    border-color: darkblue;
+    width: 300px;
+    height: 300px;
+}
+
+label
+{
+    background-color: crimson;
+    font-size: 30px;
+}
+
+p
+{
+    background-color: cornflowerblue;
+}
+
+b
+{
+    background-color: darkgrey;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 25px;
+}
+
+body
+{
+    background-color: gray;
+}
